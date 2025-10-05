@@ -1,0 +1,14 @@
+# Ignore Final Report folder
+Final Report/
+Report/
+Lab Guideline/
+
+# Ignore Image folder
+Images/
+images/
+
+# Ignore all lab-report files with .docx extension anywhere in the project
+prototype.docx
+Assignment (Lab).pdf
+ID-222311057.docx
+ID-222311057.pdf
